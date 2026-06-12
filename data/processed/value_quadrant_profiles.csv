@@ -1,0 +1,5 @@
+value_quadrant,n,clv_mean,clv_sum,churn_risk_mean,blended_churn_rate,recency_months_mean
+At-Risk High Value,1260,14947.722,18834130.1,0.262,0.27,7.559
+Protected Core,3845,14420.613,55447258.9,0.034,0.024,0.687
+Steady Base,7641,4659.005,35599454.62,0.034,0.029,0.688
+Win-Back Priority,2569,4704.231,12085168.35,0.261,0.255,7.435
